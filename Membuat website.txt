@@ -1,0 +1,6 @@
+Website sekolah
+
+- home
+- about
+- portfolio
+- contact
